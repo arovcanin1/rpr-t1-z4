@@ -32,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,6 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1jQW1knO8tDL5UOu1ThivWU0cHN" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604332118745</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1604332569932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604332569932</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1604334000673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604334000673</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +184,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604319660671" />
+    <state x="412" y="12" key="CommitChangelistDialog2" timestamp="1604332449562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="412" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604332449562" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1604331389358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,6 +216,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1604320819304" />
+    <state x="590" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604332490770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1604332490770" />
     <state x="540" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604320885123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
