@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604331233957</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rpr t1 z4">
+      <created>1604331538859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604331538859</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +149,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rpr-t1-z4" />
     <MESSAGE value="rpr2019-t1-z4" />
-    <option name="LAST_COMMIT_MESSAGE" value="rpr2019-t1-z4" />
+    <MESSAGE value="rpr t1 z4" />
+    <option name="LAST_COMMIT_MESSAGE" value="rpr t1 z4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1604309320186">
@@ -157,26 +165,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604331389358" />
-    <state x="639" y="315" key="Github.ShareDialog" timestamp="1604320086575">
+    <state x="639" y="315" key="Github.ShareDialog" timestamp="1604331659274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="639" y="315" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604320086574" />
-    <state width="1493" height="666" key="GridCell.Tab.0.bottom" timestamp="1604321207236">
+    <state x="639" y="315" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604331659274" />
+    <state width="1493" height="666" key="GridCell.Tab.0.bottom" timestamp="1604332057406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="666" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604321207236" />
-    <state width="1493" height="666" key="GridCell.Tab.0.center" timestamp="1604321207236">
+    <state width="1493" height="666" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604332057406" />
+    <state width="1493" height="666" key="GridCell.Tab.0.center" timestamp="1604332057406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="666" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604321207236" />
-    <state width="1493" height="666" key="GridCell.Tab.0.left" timestamp="1604321207236">
+    <state width="1493" height="666" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604332057406" />
+    <state width="1493" height="666" key="GridCell.Tab.0.left" timestamp="1604332057406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="666" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604321207236" />
-    <state width="1493" height="666" key="GridCell.Tab.0.right" timestamp="1604321207236">
+    <state width="1493" height="666" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604332057406" />
+    <state width="1493" height="666" key="GridCell.Tab.0.right" timestamp="1604332057406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="666" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604321207236" />
+    <state width="1493" height="666" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604332057406" />
     <state x="498" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604320819304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -185,5 +193,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="174" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1604320885123" />
+    <state x="360" y="38" key="new project wizard" timestamp="1604332056130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="38" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604332056130" />
   </component>
 </project>
