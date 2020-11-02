@@ -1,5 +1,5 @@
 package ba.unsa.etf.rpr;
-
+// Ovo je komentar
 public class Artikl {
     private String artikl;
     private int cijena;
